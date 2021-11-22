@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\VSCode\\Python\\python.exe",
+    // "python.linting.pylintArgs": [
+    //     "--load-plugins=pylint_django"
+    // ],
+
+    // "[python]": {
+
+    // }
+}
